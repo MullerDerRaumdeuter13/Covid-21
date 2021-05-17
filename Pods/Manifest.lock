@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.3)
+  - MSBBarChart (1.1.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - MSBBarChart
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MSBBarChart
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  MSBBarChart: b926097a894bfdcaaf5fd29b49eb779339ec7b2a
+
+PODFILE CHECKSUM: 9f19f03dd0baf55c6dffe1854d36d4801a48997c
+
+COCOAPODS: 1.10.1
